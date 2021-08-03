@@ -5,8 +5,8 @@ This repository contains artifacts, resources, and the Android mobile applicatio
 Let us know your feedback/questions at *yanis[dot]boussad[at]inria[dot]fr*
 
 #### Upcoming features in the calibration mobile application prototype 
-* Finding the source polarization [Expected Spring 2021]
-* Finding the source location [Expected Spring 2021]
+* Finding the source polarization
+* Finding the source location
 
 ### Citation
 Boussad, Y., Mahfoudi, M. N., Legout, A., Lizzi, L., Ferrero, F., & Dabbous, W. (2020). Evaluating Smartphone Accuracy for RSSI Measurements. IEEE Trans. Instrum. Meas.
